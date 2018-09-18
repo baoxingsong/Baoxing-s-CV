@@ -1,6 +1,6 @@
 # Baoxing's CV
 
-Now I am a Ph.D. at MPIPZ. I am developing pipelines for GWAS and natural variation analysis.
+Now I am a postdoc at MPIPZ. I am developing pipelines for GWAS and natural variation analysis.
 
 I have a biological bachelor degree, then I switched to bioinformatics for Master and Ph.D. degree. I spent a lot of efforts to teach myself for programming skills and mathematical knowledge by reading books with a total height of several meters. For programming, instead of focusing on program language, I think algorithm and data structure etc. is more important for a professional bioinformatician. But with the desire for understating the details of some daily software, which is not well documented, I learned almost all the popular bioinformatics program language.
 
